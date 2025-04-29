@@ -19,7 +19,7 @@
 
    ```bash
    git clone https://github.com/Palachev/time-app.git
-   cd time-app
+   cd time-app/time-app-FINAL
    ```
 
 2. Соберите и запустите контейнеры:
